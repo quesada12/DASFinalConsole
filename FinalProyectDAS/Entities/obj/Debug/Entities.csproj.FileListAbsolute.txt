@@ -1,0 +1,6 @@
+D:\Pruebas\FinalProyectDAS\Entities\bin\Debug\Entities.dll
+D:\Pruebas\FinalProyectDAS\Entities\bin\Debug\Entities.pdb
+D:\Pruebas\FinalProyectDAS\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Pruebas\FinalProyectDAS\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Pruebas\FinalProyectDAS\Entities\obj\Debug\Entities.dll
+D:\Pruebas\FinalProyectDAS\Entities\obj\Debug\Entities.pdb
