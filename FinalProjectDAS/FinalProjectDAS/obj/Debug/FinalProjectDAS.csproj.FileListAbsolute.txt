@@ -1,0 +1,12 @@
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\FinalProjectDAS.exe.config
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\FinalProjectDAS.exe
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\FinalProjectDAS.pdb
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\BusinessLogic.dll
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\Entities.dll
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\BusinessLogic.pdb
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\bin\Debug\Entities.pdb
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\obj\Debug\FinalProjectDAS.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\obj\Debug\FinalProjectDAS.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\obj\Debug\FinalProjectDAS.csproj.CopyComplete
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\obj\Debug\FinalProjectDAS.exe
+C:\Users\Josue\Desktop\FinalProjectDAS\FinalProyectDAS\obj\Debug\FinalProjectDAS.pdb
